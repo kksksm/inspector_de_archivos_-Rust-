@@ -1,0 +1,1 @@
+/home/faraj/Desktop/lenguajes_de_programacion/inspector_de_archivos_(Rust)/inspector_03/target/debug/inspector_03: /home/faraj/Desktop/lenguajes_de_programacion/inspector_de_archivos_(Rust)/inspector_03/src/main.rs
